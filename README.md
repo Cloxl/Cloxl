@@ -1,23 +1,13 @@
-👋 Hi, I’m [@Cloxl](https://github.com/Cloxl)🙋‍♂️
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cloxl&show_icons=true&hide_border=true&theme=vue-dark" />
 
-<img src="https://stats.deeptrain.net/user/Cloxl" width="600px" alt="code-stats"></img><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cloxl" width="600px" alt="commit-stats"></img>
 
-## 🗺 Favorite
-#### 🤖 `Machine Learning` (Black-box models, Deep Learning)
-#### 🕷 `Web Scraping ` (JS Reversing, Web Scraping Frameworks)
+## 👋 Hi~
+感谢您路过我的小窝 可以给个关注嘛~
 
-## 📝 Description
+## ✨ 我的爱好:
+我喜欢人工智能+逆向工程 使用逆向为人工智能赋能
 
-🤖 I'm passionate about learning Python, especially in the fields of web scraping and machine learning. I'm currently diving deep into these topics. I believe in the power of open-source and hope that my projects can contribute to the open-source community.
-
-## ✨ My Strengths:
-- **Dedication**: I'm committed to continuous learning and always strive to be at the forefront of technological advancements.
-- **Collaboration**: I believe in team synergy and always ensure effective communication in my collaborations.
-- **Problem-solving**: I approach challenges with a solutions-driven mindset, always looking for innovative solutions.
-- **Adaptability**: The tech world is ever-evolving, and I pride myself on my ability to adapt and evolve with it.
-
-## 🌌 Languages
+## 🌌 技术栈
 <p align="center">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/9089/9089814.png" alt="c">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python">
